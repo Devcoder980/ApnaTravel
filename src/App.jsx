@@ -7,7 +7,10 @@ function App() {
 
   return (
     <>
+    <main>
       <Navbar/>
+    </main>
+      
     </>
   )
 }
